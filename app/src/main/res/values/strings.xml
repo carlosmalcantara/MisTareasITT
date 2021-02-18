@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PastilleroITT</string>
+    <string name="pastillas">Pastillas</string>
+    <string name="mis_tareas">Mis Pastis</string>
+    <string name="itt">ITT</string>
+    <string name="nombre_de_usuario">user name</string>
+    <string name="password">password</string>
+</resources>
